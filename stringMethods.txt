@@ -1,0 +1,25 @@
+
+
+
+String Methods:
+1.lower()
+2.upper()
+3.capitalize()
+4.title()
+5.swapcase()
+6.casefold()
+7.count()
+8.index()
+9.find()
+10.strip()
+11.split()
+12.partition()
+13.replace()
+14.startwith()
+15.endswith()
+16.islower()
+17.isupper()
+18.iscapitalize()
+19.istitle()
+20.len()
+21." ".join(list_name)
